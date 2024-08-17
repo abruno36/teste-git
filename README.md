@@ -1,4 +1,4 @@
-# Aplicação : WEBAPI & ANGULAR  
+# Aplicação : ALTERADO PARA TESTES  
 
 
 
@@ -12,29 +12,7 @@
 
 
 
-> ## Nível Criticidade
-> - [ ] - Alto  
-> - [x] - Médio  
-> - [ ] - Baixo  
->  
----
-
-
-
-> ## Tecnologias
->
-> **Frameworks:**  
-> - *.Net CORE 6 com Angular Cli 15.2.6 Node: 18.16.0*  
->
-> **Tipo de Banco de dados:**  
-> - *SQL Server Express*
->
-> **Dispositivos Específicos:**  
->
-> **Componentes:**  
->  
->   
->
+Este arquivo de testes
 
 ---
 
